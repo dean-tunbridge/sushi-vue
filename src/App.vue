@@ -4,7 +4,7 @@
   <header>
     <nav class="header__nav">
       <div class="header__logo">
-        <h4>SUSHIBONSON</h4>
+        <h4>寿司 sushi<br />ボンソン Bonson</h4>
         <div class="header__logo-overlay"></div>
       </div>
 
@@ -16,7 +16,7 @@
           <a href="#Food">Food</a>
         </li>
         <li>
-          <a href="#Servcies">Servcies</a>
+          <a href="#Services">Services</a>
         </li>
         <li>
           <a href="#About-us">About Us</a>
@@ -59,7 +59,7 @@
   font-weight: 700;
   font-size: 24px;
   text-transform: uppercase;
-  font-family: var(--playfair-display);
+  font-family: 'Dela Gothic One', sans-serif;
   color: #fff;
   opacity: 0.8;
 }
