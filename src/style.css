@@ -4,6 +4,9 @@
 /* 'Playfair Display'*/
 
 :root {
+  --playfair: 'Playfair Display', serif;
+  --dela-gothic-one: 'Dela Gothic One', sans-serif;
+
   --text: #6b6375;
   --text-h: #08060d;
   --bg: #fff;

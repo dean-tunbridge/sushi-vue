@@ -8,7 +8,7 @@
         <div class="header__logo-overlay"></div>
       </div>
 
-      <ul class="header__menu">
+      <ul class="header__menu" data-aos="fade-down">
         <li>
           <a href="#Menu">Menu</a>
         </li>
@@ -26,7 +26,7 @@
         </li>
       </ul>
 
-      <ul class="header__menu-mobile">
+      <ul class="header__menu-mobile" data-aos="fade-down">
         <img src="/assets/menu.svg" alt="menu" />
       </ul>
     </nav>
