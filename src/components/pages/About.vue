@@ -62,7 +62,7 @@
 }
 
 .about-us__image-sushi3 {
-  border-bottom: 8px solid var(--color-creamson);
+  border-bottom: 8px solid var(--accent-color);
 
   background-image: url('../../assets/about_bg1.png');
 }

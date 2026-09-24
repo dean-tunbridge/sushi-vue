@@ -90,16 +90,12 @@
 <style scoped>
 .popular-foods {
   padding: 64px;
-
   display: flex;
   flex-direction: column;
-
   background-color: var(--primary-color);
-  background-image: url('../../assets/popular_bg.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
-
   overflow: hidden;
 }
 
@@ -116,7 +112,6 @@
   margin-top: 48px;
   max-width: 100%;
   overflow-x: auto;
-
   display: flex;
   justify-content: center;
   gap: 24px;
@@ -124,16 +119,13 @@
 
 .popular-foods__filter-btn {
   padding: 10px 28px;
-
   display: flex;
   flex-direction: row;
   align-items: center;
   gap: 10px;
-
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: 46px;
-
   font-size: 16px;
   font-weight: 300px;
   line-height: 25px;
