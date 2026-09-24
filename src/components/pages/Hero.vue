@@ -9,6 +9,7 @@
         本 <br />
         食
       </h2>
+      <div class="hero-image__overlay"></div>
     </div>
   </section>
 </template>
@@ -49,7 +50,6 @@
   bottom: 0;
   padding: 20px;
   font-family: var(--dela-gothic-one);
-  font-weight: 700;
   font-size: 120px;
   line-height: 138px;
   color: #fff;
