@@ -48,7 +48,6 @@
   position: absolute;
   bottom: 0;
   padding: 20px;
-
   font-family: var(--dela-gothic-one);
   font-weight: 700;
   font-size: 120px;
@@ -80,7 +79,6 @@
 
 .hero-content-info p {
   margin: 32px 0 0 32px;
-
   font-family: var(--playfair);
   color: var(--secondary-color);
   font-size: 18px;
@@ -89,7 +87,6 @@
 
 .hero-content__buttons {
   margin: 41px 0 0 41px;
-
   display: flex;
   flex-wrap: wrap;
   gap: 36px;
@@ -102,9 +99,7 @@
   outline: none;
   border: none;
   background: var(--secondary-color);
-
   cursor: pointer;
-
   color: #fff;
   font-weight: 500;
   font-size: 18px;
@@ -115,20 +110,16 @@
   border: none;
   outline: none;
   background: transparent;
-
   display: flex;
   align-items: center;
-
   font-size: 16px;
   line-height: 19px;
   color: var(--black-200);
-
   cursor: pointer;
 }
 
 .hero-content__play-button img {
   margin-right: 12px;
-
   width: 46px;
   height: 46px;
   object-fit: contain;
@@ -136,11 +127,9 @@
 
 .hero-content__testimonial {
   padding: 32px 64px;
-
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
-
   background: var(--color-white);
 }
 
@@ -168,7 +157,6 @@
   display: flex;
   align-items: center;
   gap: 10px;
-
   padding-left: 20px;
   border-left: 1px solid rgba(2, 2, 2, 0.1);
   min-width: 200px;
