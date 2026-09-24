@@ -49,7 +49,7 @@
   bottom: 0;
   padding: 20px;
 
-  font-family: var(--playfair-display);
+  font-family: var(--dela-gothic-one);
   font-weight: 700;
   font-size: 120px;
   line-height: 138px;
@@ -74,7 +74,7 @@
 .hero-content-info h1 {
   font-size: 80px;
   font-weight: 600px;
-  font-family: var(--playfair-display);
+  font-family: var(--playfair);
   color: var(--secondary-color);
 }
 
@@ -152,7 +152,7 @@
 .hero-content__customer h4 {
   font-size: 62px;
   font-weight: 400;
-  font-family: var(--playfair-display);
+  font-family: var(--playfair);
 }
 
 .hero-content__customer p {
