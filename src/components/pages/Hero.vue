@@ -80,7 +80,7 @@
   font-family: var(--dela-gothic-one);
   font-size: 120px;
   line-height: 138px;
-  color: #fff;
+  color: var(--accent-color);
 }
 
 .hero-content {
