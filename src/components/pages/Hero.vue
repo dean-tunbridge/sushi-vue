@@ -4,11 +4,7 @@
   <section class="hero">
     <div class="hero-image">
       <img src="/assets/sushi-1.png" alt="sushi" data-aos="fade-up" />
-      <h2 data-aos="fade-up">
-        日 <br />
-        本 <br />
-        食
-      </h2>
+      <h2 data-aos="fade-up">ボ<br />ン<br />ソ<br />ン</h2>
       <div class="hero-image__overlay"></div>
     </div>
 
