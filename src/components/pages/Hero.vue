@@ -81,7 +81,7 @@
 .hero-content-info p {
   margin: 32px 0 0 32px;
 
-  font-family: var(--plus-jakarta-sans);
+  font-family: var(--playfair);
   color: var(--secondary-color);
   font-size: 18px;
   font-weight: 400;
@@ -158,7 +158,7 @@
 .hero-content__customer p {
   font-size: 16px;
   font-weight: 400;
-  font-family: var(--plus-jakarta-sans);
+  font-family: var(--playfair);
   color: var(--secondary-color);
   opacity: 0.5;
 }
@@ -184,7 +184,7 @@
   font-size: 12px;
   font-weight: 400;
   line-height: 32px;
-  font-family: var(--plus-jakarta-sans);
+  font-family: var(--playfair);
   color: var(--secondary-color);
   opacity: 0.8;
 }

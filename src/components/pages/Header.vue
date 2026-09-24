@@ -77,7 +77,7 @@
 
 .header__menu li {
   font-weight: 500;
-  font-family: var(--plus-jakarta-sans);
+  font-family: var(--playfair);
   color: var(--secondary-color);
   font-size: 16px;
   text-transform: uppercase;
