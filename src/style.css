@@ -9,15 +9,14 @@
 
   --primary-color: #293f14;
   --secondary-color: #121212;
+  --accent-color: #e0f0d0;
+  --color-white: #fff;
 
   --black-200: #020202;
   --black-300: #333333;
   --black-400: #1f1e31;
   --black-500: #555555;
   --gray-100: #888888;
-
-  --color-white: #fff;
-  --accent-color: #e0f0d0;
 }
 
 * {

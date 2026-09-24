@@ -101,7 +101,7 @@
 
 .popular-foods__title {
   font-size: 56px;
-  font-family: var(--playfair-display);
+  font-family: var(--playfair);
   font-weight: 600;
   line-height: 78px;
   color: #fff;
@@ -146,7 +146,7 @@
 }
 
 .popular-foods__filter-btn:hover {
-  background: #fff;
+  background: var(--accent-color);
   color: var(--primary-color);
 }
 
