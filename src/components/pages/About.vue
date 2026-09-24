@@ -94,7 +94,7 @@
   outline: 0;
 
   color: #fff;
-  font-family: var(--plus-jakarta-sans);
+  font-family: var(--dela-gothic-one);
   font-weight: 500;
   font-size: 18px;
   line-height: 23px;
